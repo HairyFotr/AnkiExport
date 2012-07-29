@@ -1,0 +1,7 @@
+Support for pdf, MediaWiki, and (ugly) LaTeX exporting from Anki.
+
+The pdf/LaTeX parts don't work with non-latin fonts. 
+
+For this plugin to work, you must have pdflatex installed and in your path.
+
+To export, open a deck and go to Tools->PDF Export/MediaWiki Export/LaTeX Export.
